@@ -99,7 +99,13 @@ ul li {
 }
 
 
+#logo {
 
+    position: absolute;
+
+    left: 750px;
+
+}
 
 
 h2 {

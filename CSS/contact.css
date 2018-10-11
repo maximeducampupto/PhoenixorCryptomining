@@ -30,6 +30,13 @@ body {
 
 }
 
+#logo {
+
+    position: absolute;
+
+    left: 750px;
+
+}
 
 
 #boutonEnvoyer{
