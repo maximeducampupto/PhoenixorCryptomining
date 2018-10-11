@@ -1,0 +1,65 @@
+#pub {
+
+    height: 100px;
+
+    width: 100%;
+
+}
+
+#main {
+
+    background-color: white;
+
+}
+
+body {
+
+    color: rebeccapurple;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1,h2 {
+
+    font-family: 'Bai Jamjuree', sans-serif;
+
+    color: rebeccapurple;
+
+}
+
+img {
+
+    width: 120px;
+
+    height: 80px;
+
+}
+
+body {
+
+    background-color: rebeccapurple;
+
+}
+
+#logo {
+
+    height: 408px;
+
+    width: 948px;
+
+    margin-left: 57px;
+
+}
+
+
+
+#marque {   color: rebeccapurple;}#page1  {   color: rebeccapurple;   float: left;}#page2 {   color: rebeccapurple;}#borduresearch  {   border-color: rebeccapurple;}#fontsearch{   background-color: rebeccapurple;   color: white;   border-color: rebeccapurple;}
+
+.money {
+
+    height: 15px;
+
+    width: 15px;
+
+}

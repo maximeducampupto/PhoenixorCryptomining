@@ -1,0 +1,133 @@
+body {
+
+    background-color: rebeccapurple;
+
+    color: white;
+
+    font-family: 'Roboto';
+
+}
+
+
+
+ul li {
+
+    color: black;
+
+}
+
+
+
+
+
+#main {
+
+    background-color: white;
+
+    text-align: center;
+
+    padding: 100px;
+
+    box-sizing: border-box;
+
+    box-shadow: 15px 10px 10px rgba(0,0,0,0.3);
+
+}
+
+
+
+#gagnant {
+
+    margin-bottom: 85px;
+
+}
+
+
+
+#space {
+
+    background-color: rebeccapurple;
+
+    height: 6px;
+
+}
+
+
+
+#marque {
+
+    color: rebeccapurple;
+
+}
+
+
+
+#page1  {
+
+    color: rebeccapurple;
+
+    float: left;
+
+}
+
+
+
+#page2 {
+
+    color: rebeccapurple;
+
+}
+
+
+
+#borduresearch  {
+
+    border-color: rebeccapurple;
+
+}
+
+
+
+#fontsearch{
+
+    background-color: rebeccapurple;
+
+    color: white;
+
+    border-color: rebeccapurple;
+
+}
+
+
+
+
+
+h2 {
+
+    margin-top: 50px ;
+
+    margin-bottom: 30px;
+
+}
+
+
+
+h1, h2 {
+
+    font-family: 'Bai Jamjuree';
+
+    color: rebeccapurple;
+
+}
+
+
+
+h1 {
+
+    border: 6px rebeccapurple solid;
+
+    padding: 50px;
+
+    box-shadow: 15px 10px 10px rgba(0,0,0,0.3);
+
+}
