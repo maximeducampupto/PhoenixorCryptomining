@@ -20,7 +20,10 @@ body {
 
 }
 
-
+.container {
+    background: white !important;
+    height: 100vh;
+}
 
 #Contact{
 
@@ -29,6 +32,15 @@ body {
     color: white;
 
 }
+
+label {
+    color: rebeccapurple;
+}
+
+input, textarea {
+    border-color: rebeccapurple !important;
+}
+
 
 #logo {
 
@@ -41,7 +53,8 @@ body {
 
 #boutonEnvoyer{
 
-    color: rebeccapurple !important;
+    color: white !important;
+    background:  rebeccapurple !important;
 
     font-size: 18px !important;
 
